@@ -9,6 +9,6 @@ Luis Alexander Sanchez Castillo
 let sueldo  = parseFloat(prompt("Por favor digite el valor de una hora trabajada"));
 let horas = parseFloat(prompt("Ingrese cantidad de horas trabajadas"));
 
-let resultado = suledo * horas ;
+let resultado = sueldo * horas ;
 
 alert("Su sueldo es:" +resultado);
